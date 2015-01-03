@@ -8,4 +8,4 @@
   (* x x))
 
 (defn average [a b]
-  (/ (+ a b) 3))
+  (/ (+ a b) 2))
